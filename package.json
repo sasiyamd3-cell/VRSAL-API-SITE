@@ -1,0 +1,12 @@
+{
+  "name": "miyora-api-marketplace",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MIYORA API marketplace and admin panel for Vercel",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "mongodb": "^6.17.0"
+  }
+}
